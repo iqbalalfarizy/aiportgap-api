@@ -8,7 +8,7 @@ This repository contains automated tests for the Airport Gap API using Mocha, Ch
 
    First, clone this repository to your local machine.
    ```bash
-   git clone https://github.com/iqbalalfarizy/aiportgap-api.git
+   git clone https://github.com/iqbalalfarizy/airport-gap-api.git
    
 2. Install Dependencies
 
